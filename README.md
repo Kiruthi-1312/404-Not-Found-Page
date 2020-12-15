@@ -23,6 +23,8 @@
 
 HTML<span> | </span>CSS<span> | </span>Bootstrap
 
-## Preview
 
-[preview for the webpage](https://github.com/Kiruthi-1312/devchallenges/blob/main/screenshot.png)
+
+## Contact
+
+- DevChallenges [@Kiruthika] (https://portfolio.devchallenges.io/Kiruthi-1312)
