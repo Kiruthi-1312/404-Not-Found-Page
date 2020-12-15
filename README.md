@@ -5,14 +5,16 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://404-error-page-dev.netlify.app/">
+    <a href="https://404-error-page-dev.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/Kiruthi-1312/devchallenges/">
+    <a href="https://github.com/Kiruthi-1312/devchallenges/">
       Solution
     </a>
     <span> | </span>
-     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">Challenge
+    </a>
+
       
     
