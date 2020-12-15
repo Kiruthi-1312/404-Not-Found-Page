@@ -25,4 +25,4 @@ HTML<span> | </span>CSS<span> | </span>Bootstrap
 
 ## Preview
 
-[preview for the webpage](screenshot.png)
+[preview for the webpage](https://github.com/Kiruthi-1312/devchallenges/blob/main/screenshot.png)
