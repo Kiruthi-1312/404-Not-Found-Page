@@ -21,4 +21,4 @@
 
 ### Built With
 
-HTML,CSS,Bootstrap
+HTML<span> | </span>CSS<span> | </span>Bootstrap
