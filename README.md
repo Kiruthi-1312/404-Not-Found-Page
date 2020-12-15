@@ -27,4 +27,4 @@ HTML<span> | </span>CSS<span> | </span>Bootstrap
 
 ## Contact
 
-- DevChallenges [@Kiruthika] (https://portfolio.devchallenges.io/Kiruthi-1312)
+- DevChallenges [@Kiruthika](https://portfolio.devchallenges.io/Kiruthi-1312)
